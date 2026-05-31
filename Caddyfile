@@ -1,0 +1,4 @@
+saintcloudsystemen.duckdns.org {
+    encode
+    reverse_proxy app:80
+}
